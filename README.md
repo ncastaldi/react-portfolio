@@ -26,4 +26,4 @@ SOFTWARE.
 
 ## Badges
 
-[![GitHub license](https://img.shields.io/github/license/ncastaldi/hw20-react-portfolio?style=for-the-badge)](https://github.com/ncastaldi/hw20-react-portfolio/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/ncastaldi/react-portfolio?style=for-the-badge)](https://github.com/ncastaldi/react-portfolio/blob/main/LICENSE)
