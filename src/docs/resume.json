@@ -1,0 +1,225 @@
+{
+  "basics": {
+    "name": "Nathan Castaldi",
+    "label": "Full stack web developer",
+    "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQHv8_c7ZsoV2g/profile-displayphoto-shrink_200_200/0/1589822563563?e=1619049600&v=beta&t=bav2fpXrsAEa9ZGwdDWc_YRQu57aecQgO8YLVB6hb-c",
+    "email": "nathan@castaldi.dev",
+    "phone": "+1 678 661 1475",
+    "website": "https://www.castaldi.dev",
+    "summary": "Front-end web developer leveraging a background in IT Operations and Customer Service to provide unique perspectives on software development and integration. Earned a certificate in Full Stack Web Development from the Georgia Tech Coding Boot Camp. Inductive problem-solver who is passionate about mobile-first app design and development.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Atlanta",
+      "countryCode": "US",
+      "region": "Georgia"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "ncastaldi",
+        "url": "https://github.com/ncastaldi/"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "nathancastaldi",
+        "url": "https://www.linkedin.com/in/nathancastaldi/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "WPP IT",
+      "endDate": "2020-05-31",
+      "highlights": [
+        "Managed service desk team mixed of direct and indirect reports to support local and remote users within the organization.",
+        "Effectively achieved SLAs while improving customer satisfaction.",
+        "Drove down MTTR statistics for regionally impactful tickets.",
+        "Successfully implemented global service desk standards in region.",
+        "Spearheaded user training and data migration during cloud service adoption.",
+        "Served as the relationship manager for local and remote vendors."
+      ],
+      "position": "Information Technology Operations Manager",
+      "startDate": "2017-01-31",
+      "summary": "Provided regional IT operational management and leadership for multiple business units totaling 500 end users in accordance with global standards.",
+      "website": "https://www.linkedin.com/company/wppit/"
+    },
+    {
+      "company": "J. Walter Thompson London (JWT London)",
+      "endDate": "2016-12-31",
+      "highlights": [
+        "Modernized meeting room equipment management through software solution.",
+        "Directed creation of room booking workflows for Skype for Business rollout.",
+        "Created and deployed office-wide digital bulletin board.",
+        "Facilitated new user orientation in the absence of senior leadership."
+      ],
+      "position": "AV Systems Engineer",
+      "startDate": "2015-12-31",
+      "summary": "Oversaw meeting room and video conferencing facilities, managed after-hours event space, and provided deskside IT support for regional corporate leadership and VIP guests.",
+      "website": "https://www.linkedin.com/company/jwt-london/"
+    },
+    {
+      "company": "IBM",
+      "endDate": "2015-11-30",
+      "highlights": [
+        "Created and maintained shared knowledge base of known errors and workarounds.",
+        "Collaborated with Network Operations on troubleshooting service outages."
+      ],
+      "position": "Desktop Support Administrator",
+      "startDate": "2015-03-31",
+      "summary": "Leveraged broad-based expertise to manage problem identification, diagnosis, resolution, and escalation via helpdesk system using telephone and remote tools.",
+      "website": "https://www.linkedin.com/company/ibm/"
+    },
+    {
+      "company": "WTMS",
+      "endDate": "2015-03-31",
+      "highlights": [
+        "Supported a wide range of technology issues throughout the organization."
+      ],
+      "position": "Desktop Support Administrator",
+      "startDate": "2014-11-30",
+      "summary": "Leveraged broad-based expertise to manage problem identification, diagnosis, resolution, and escalation via helpdesk system using telephone and remote tools.",
+      "website": "https://www.linkedin.com/company/wtms/"
+    },
+    {
+      "company": "Microsoft",
+      "endDate": "2013-11-30",
+      "highlights": [
+        "Performed troubleshooting, repair, and maintenance of computer systems, hardware, peripherals, and telephony.",
+        "Analyzed system requirements to efficiently isolate and resolve a wide array of technical issues.",
+        "Selected to represent my store at an annual Microsoft conference (MGX 2013)",
+        "Organized logistical plan for Xbox One console launch day for customer foot traffic."
+      ],
+      "position": "Technical Advisor",
+      "startDate": "2011-04-30",
+      "summary": "Provided effective and efficient front-line support directly to customers to answer questions, resolve issues, and disseminate information.",
+      "website": "https://www.linkedin.com/company/microsoft/"
+    },
+    {
+      "company": "Gables Residential",
+      "endDate": "2010-04-30",
+      "highlights": [
+        "Performed diagnostics and troubleshooting of propriety system issues, documented help desk tickets/resolutions.",
+        "Partnered with Tier II and III help desks across the United States to resolve complex problems that required escalation.",
+        "Provided detailed descriptions of issues to in-house ticketing system and followed up diligently to ensure swift resolutions."
+      ],
+      "position": "Help Desk Technician",
+      "startDate": "2009-11-30",
+      "summary": "Provided computer help desk support via telephone communications with end-users.",
+      "website": "https://www.linkedin.com/company/gables-residential/"
+    },
+    {
+      "company": "IMCorp, Inc.",
+      "endDate": "2009-04-30",
+      "highlights": [
+        "Using a working knowledge of computer programming, developed, documented, and deployed a mobile application in a warehouse environment.",
+        "Maintained and administered internal network and computing resources.",
+        "Provided pre- and post-sales technical support to current and prospective customers.",
+        "Staged products and equipment for customer deployments.",
+        "Installed products and equipment in customer environments.",
+        "Trained customer personnel in use of custom products.",
+        "Created, maintained and administered technical documents and knowledge base."
+      ],
+      "position": "Technical Services Associate",
+      "startDate": "2008-01-31",
+      "summary": "",
+      "website": ""
+    }
+  ],
+  "volunteer": [],
+  "skills": [
+    {
+      "name": "IT Operations",
+      "level": "",
+      "keywords": [
+        "Asset Management",
+        "Budget and Project Priority",
+        "Customer Service",
+        "Delegation",
+        "End User Training",
+        "Leadership",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "Bootstrap",
+        "CSS3",
+        "ExpressJS",
+        "Handlebars",
+        "Heroku",
+        "HTML5",
+        "Javascript",
+        "jQuery",
+        "MongoDB",
+        "Node JS",
+        "React",
+        "Sequelize"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "area": "Full Stack Web Development",
+      "studyType": "Coding Boot Camp",
+      "startDate": "2020-11-30",
+      "endDate": "2021-03-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Westwood College",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Science - BS",
+      "startDate": "2008-12-31",
+      "endDate": "2011-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Lehigh Valley College",
+      "area": "Computer Science",
+      "studyType": "Associate of Science - AS",
+      "startDate": "2000-12-31",
+      "endDate": "2002-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "ITIL v4 Foundation",
+      "date": "2020-07-21",
+      "awarder": "Axelos",
+      "summary": "The ITIL 4 Foundation certification enables candidates to look at IT service management through an end-to-end operating model for the creation, delivery and continual improvement of tech-enabled products and services."
+    },
+    {
+      "title": "Network+",
+      "date": "2010-07-30",
+      "awarder": "CompTIA",
+      "summary": "The Network+ certification from CompTIA validates the skills and competency of a networking professional to maintain, troubleshoot and configure a basic network infrastructure."
+    },
+    {
+      "title": "A+",
+      "date": "2009-09-11",
+      "awarder": "CompTIA",
+      "summary": "CompTIA A+ certified professionals are proven problem solvers. They support today’s core technologies from security to cloud to data management and more. CompTIA A+ is the industry standard for launching IT careers into today’s digital world."
+    }
+  ],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [
+    {
+      "name": "Simon Falcon",
+      "reference": "Nathan is a pleasure to work with, knowledgeable, friendly, and hard working. He understands service delivery and is tuned into the needs of his users working closely with senior stakeholders and end users to ensure the best possible delivery of IT services and solutions. He's extremely well organized and his communications skills are excellent, a great addition to any organization looking for in-house IT expertise and management.\n"
+    },
+    {
+      "name": "Andrew Johnson",
+      "reference": "Nathan’s an experienced IT professional. He has a great mix of technical background and personality to be able to interact at all levels of a business and get things done. He enjoys being around people. Coaching and educating people how to get the most out of technology is something that comes naturally to him, which is a rare talent. He’s also organized and able to manage and coordinate projects. I’ve worked with Nathan for many years and always enjoyed his enthusiasm and the attitude he brings to everything. I have no hesitation in recommending him.\n"
+    }
+  ]
+}

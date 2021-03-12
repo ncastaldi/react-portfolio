@@ -1,0 +1,14 @@
+#formTitle {
+    color: #003b6f;
+    text-align: center;
+}
+
+#msgInput {
+    height: 100px;
+    resize: none;
+}
+
+#sendButton {
+    float: right;
+    background-color: #003b6f;
+}

@@ -1,0 +1,14 @@
+.page-footer {
+    /* position: fixed; */
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    line-height: 50px;
+    width: 100%;
+    color: #003B6F;
+    background-color: grey;
+    border-top-color: #003B6F;
+    border-top-style: solid;
+    border-top-width: 5px;
+    text-align: center;
+  }

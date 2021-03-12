@@ -1,0 +1,48 @@
+* {
+  color: #003b6f;
+  background-color: #acacac;
+}
+
+/* CSS for highlighting DIVs during layout testing */
+/* div {
+    border-style: solid;
+    border-width: 1px;
+    border-color: greenyellow;
+} */
+
+.mynav {
+  color: #003b6f;
+  font-size: 36px;
+}
+
+.nav a {
+  color: #003b6f;
+  font-size: x-large;
+}
+
+.navbar {
+  padding: 0px;
+  border-bottom-color: #003B6F;
+  border-bottom-style: solid;
+  border-bottom-width: 5px;
+}
+
+.navbar-light .navbar-brand {
+  color: #003b6f;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #003b6f;
+}
+
+.navIcon {
+  padding: 5px;
+}
+
+#homeLink {
+    font-size: xx-large;
+}
+
+#portfolioLink, #resumeLink, #contactLink {
+    font-size: x-large;
+}

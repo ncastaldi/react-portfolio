@@ -1,0 +1,3 @@
+#dynamicContent {
+    height: calc(100vh - 125px);
+}
