@@ -1,6 +1,6 @@
 # React Portfolio
 
-Professional landing page with portfolio links and contact page
+Professional landing page with portfolio links and contact page.
 
 ## License
 
