@@ -1,5 +1,7 @@
 # React Portfolio
 
+Professional landing page with portfolio links and contact page
+
 ## License
 
 MIT License
