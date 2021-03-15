@@ -22,57 +22,57 @@ const Home = () => {
           <h5>Feel free to view selected work in my portfolio.</h5>
         </div>
 
-        <div class="development-icons">
+        <div className="development-icons">
           <div>
-            <i class="devicon-bootstrap-plain null"></i>
+            <i className="devicon-bootstrap-plain null"></i>
             <p>Bootstrap</p>
           </div>
           <div>
-            <i class="devicon-css3-plain null"></i>
+            <i className="devicon-css3-plain null"></i>
             <p>CSS 3</p>
           </div>
           <div>
-            <i class="devicon-express-original null"></i>
+            <i className="devicon-express-original null"></i>
             <p>Express</p>
           </div>
           <div>
-            <i class="devicon-handlebars-plain null"></i>
+            <i className="devicon-handlebars-plain null"></i>
             <p>Handlebars</p>
           </div>
           <div>
-            <i class="devicon-heroku-original null"></i>
+            <i className="devicon-heroku-original null"></i>
             <p>Heroku</p>
           </div>
           <div>
-            <i class="devicon-html5-plain null"></i>
+            <i className="devicon-html5-plain null"></i>
             <p>HTML 5</p>
           </div>
           <div>
-            <i class="devicon-javascript-plain null"></i>
+            <i className="devicon-javascript-plain null"></i>
             <p>JavaScript</p>
           </div>
           <div>
-            <i class="devicon-jquery-plain null"></i>
+            <i className="devicon-jquery-plain null"></i>
             <p>jQuery</p>
           </div>
           <div>
-            <i class="devicon-mongodb-plain null"></i>
+            <i className="devicon-mongodb-plain null"></i>
             <p>Mongo DB</p>
           </div>
           <div>
-            <i class="devicon-mysql-plain null"></i>
+            <i className="devicon-mysql-plain null"></i>
             <p>MySQL</p>
           </div>
           <div>
-            <i class="devicon-nodejs-plain null"></i>
+            <i className="devicon-nodejs-plain null"></i>
             <p>Node JS</p>
           </div>
           <div>
-            <i class="devicon-react-original null"></i>
+            <i className="devicon-react-original null"></i>
             <p>React</p>
           </div>
           <div>
-            <i class="devicon-sequelize-plain null"></i>
+            <i className="devicon-sequelize-plain null"></i>
             <p>Sequelize</p>
           </div>
         </div>
