@@ -2,6 +2,29 @@
 
 Professional landing page with portfolio links and contact page.
 
+## Installation
+
+**Prerequisites:** [Node.js](https://nodejs.org/) (v14 or higher) and npm must be installed.
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ncastaldi/react-portfolio.git
+   cd react-portfolio
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+## Usage
+
+| Command | Description |
+|---------|-------------|
+| `npm start` | Start the development server at `http://localhost:3000` |
+| `npm run build` | Create an optimised production build in the `build/` folder |
+| `npm test` | Run the test suite in interactive watch mode |
+| `npm run deploy` | Build and deploy the app to GitHub Pages |
+
 ## License
 
 MIT License
