@@ -7,7 +7,7 @@ const Resume = () => {
   return (
     <>
       <Header />
-      <div class="iframe-container">
+      <div className="iframe-container">
         <iframe loading="lazy" src="https://registry.jsonresume.org/ncastaldi?theme=elegant" title="MyRes"></iframe>
      </div>
 
