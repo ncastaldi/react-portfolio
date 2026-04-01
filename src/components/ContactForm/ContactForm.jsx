@@ -1,5 +1,5 @@
 import React from "react";
-import emailjs from "emailjs-com";
+import emailjs from "@emailjs/browser";
 
 import "./ContactForm.css";
 
@@ -18,7 +18,7 @@ export default function ContactForm() {
         "service_9jusdn5",
         "template_lhhe91p",
         msgParams,
-        "user_V2XqarGwCVXa4db8NEWRK"
+        { publicKey: "user_V2XqarGwCVXa4db8NEWRK" }
       )
       .then((result) => {
         console.log(result.text);
